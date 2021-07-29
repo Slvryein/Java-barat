@@ -1,0 +1,30 @@
+html { 
+    font-family: 'Roboto', sans-serif;
+
+    }
+
+h1 {
+    color: yellow;
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    }
+
+.wew {
+    color: Red;
+    }
+
+#notru {
+    color: #30c8d9;
+        }
+
+h3 {
+    color: cyan;
+    }
+
+h4 {
+    color: Magenta;
+    }
+
+h6 {
+    color: #30aed9;
+    }
